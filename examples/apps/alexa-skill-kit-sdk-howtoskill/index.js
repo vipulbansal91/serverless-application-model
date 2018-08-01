@@ -8,6 +8,8 @@
  * as testing instructions are located at https://github.com/alexa/skill-sample-nodejs-howto
  **/
 
+
+
 'use strict';
 
 const Alexa = require('alexa-sdk');
